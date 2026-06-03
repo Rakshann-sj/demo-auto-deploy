@@ -1,0 +1,12 @@
+{
+  "name": "demo-auto-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "echo Build Successful"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
